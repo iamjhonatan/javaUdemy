@@ -1,4 +1,4 @@
-package DesafioTemperatura;
+package desafioTemperatura;
 
 public class Temperatura {
     public static void main(String[] args) {
