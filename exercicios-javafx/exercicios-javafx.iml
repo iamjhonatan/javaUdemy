@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javafx-swt" level="project" />
     <orderEntry type="library" name="javafx15" level="application" />
+    <orderEntry type="library" name="controlsfx-11.0.3" level="project" />
   </component>
 </module>
